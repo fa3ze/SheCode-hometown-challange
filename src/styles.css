@@ -38,14 +38,13 @@ a {
 }
 .header {
   text-align: center;
-  background: #6c63ff;
+  background: #ffecff;
   font-size: 20px;
-  color: #fff;
+  color: black;
   font-family: "Gill Sans", sans-serif;
   font-weight: lighter;
   letter-spacing: 1px;
   padding: 20px 15px;
-
   background-size: 100% 100%;
 }
 .poster {
